@@ -1,0 +1,47 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: 10px;
+  justify-content: space-evenly;
+}
+.cc {
+  width: 300px;
+  border-radius: 12px;
+  background-color: ghostwhite;
+  height: 100px;
+  text-align: center;
+  margin-top: 10px;
+}
+span {
+  color: white;
+}
+.c {
+  font-family: cursive;
+  background-color: orange;
+  color: black;
+  font-weight: bold;
+  border: 1px solid orange;
+  margin-top: 10px;
+  width: 300px;
+  border-radius: 12px;
+}
+button {
+  margin-left: 3px;
+  height: 35px;
+  cursor: pointer;
+  margin-bottom: 20px;
+  border-radius: 12px;
+  border: none;
+}
+input {
+  margin-top: 40px;
+  border-radius: 12px;
+  height: 28px;
+  padding: 4px;
+  border: none;
+}
+button:hover {
+  background-color: orangered;
+}
